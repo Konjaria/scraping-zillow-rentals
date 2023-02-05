@@ -11,7 +11,6 @@ To run this script, you need to have the following python packages installed:
     <li>Webdriver Manager</li>
 </ul>
 <h4>You can install these packages using pip:</h4>
-
 <ol>
     <li>pip install beautifulsoup4</li>
     <li>pip install requests</li>
