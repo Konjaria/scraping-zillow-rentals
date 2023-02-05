@@ -94,4 +94,3 @@ for i, curr_url in enumerate(url_links):
     once_again = driver.find_element(By.XPATH, '/html/body/div[1]/div[2]/div[1]/div/div[4]/a')
     once_again.click()
     time.sleep(3)
-
